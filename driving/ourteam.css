@@ -1,0 +1,36 @@
+
+.shivu::before {
+    content: "\201c";
+    font-size: 100px; 
+    color: orangered;
+}
+
+.kenne::before {
+    content: "\201c";
+    font-size: 100px; 
+    color: orangered;
+}
+
+.rob::before {
+    content: "\201c";
+    font-size: 100px; 
+    color: orangered;
+}
+
+.Diana::before {
+    content: "\201c";
+    font-size: 100px; 
+    color: orangered;
+}
+
+.willy::before {
+    content: "\201c";
+    font-size: 100px; 
+    color: orangered;
+}
+
+.zoe::before {
+    content: "\201c";
+    font-size: 100px; 
+    color: orangered;
+}
